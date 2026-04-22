@@ -28,6 +28,7 @@ The pipeline reads a dataset of market prices, computes a rolling mean over the 
 
 ```bash
 git clone https://github.com/mathml-ai/mlops_task/
+cd mlops_task
 
 ```
 
