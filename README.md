@@ -24,6 +24,23 @@ The pipeline reads a dataset of market prices, computes a rolling mean over the 
 
 ---
 
+## ⬇️ Clone the Repository
+
+```bash
+git clone https://github.com/mathml-ai/mlops_task/
+
+```
+
+---
+
+## 🔄 Pull Latest Changes
+
+```bash
+git pull origin main
+```
+
+---
+
 ## ⚙️ Running Locally (without Docker)
 
 ### 1. Install dependencies
